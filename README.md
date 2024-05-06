@@ -1,1 +1,1 @@
-<img src = "banner.gif" widtth = 365px  
+<img src = "banner.gif" widtth = 365px>  
