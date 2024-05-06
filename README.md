@@ -1,4 +1,4 @@
-<img src = "banner.gif" widtth = 365px  align = "right" >
+<img src = "banner.gif" widtth = 365px  align = "center" >
  
 
 
