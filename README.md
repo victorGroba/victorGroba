@@ -2,7 +2,8 @@
 <div align="center" dir="auto"><b><h1 dir="auto">
 <h1 dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Seja Bem Vindo ao meu Github! 🧑🏽‍💻</font></font></h1>
 </div>
-</h1>b>
+</h1>
+</b>  
 <div align="center" dir="auto">
   
 <img alt="GIFs" 
@@ -10,5 +11,10 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmbGdvM2t5cW9jbjNsaTFsM
 
 </div>
 
+<div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+Olá, me chamo José Victor, sou Desenvolvedor Front End. Graduando em sistemas de informação. Entusiasta pela tecnologia, sempre buscando evolução. 
+ 
+  </a>
+</div>
 
 
