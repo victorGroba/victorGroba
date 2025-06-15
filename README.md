@@ -16,9 +16,6 @@ Sou **apaixonado por criar soluções que resolvem problemas reais**, e já venh
 
 ### 🔧 O que eu já desenvolvi na prática:
 
-- **💻 Sistema completo de Controle de Qualidade**  
-  Aplicação para substituição do sistema comercial *PariPassu (CLIQ e Panorama)*, com registro de auditorias, painéis de indicadores, geração de relatórios em PDF, filtros dinâmicos e gestão de dados em Flask + Bootstrap.
-
 - **🌡️ Sistema de Monitoramento de Temperatura**  
   Aplicação web com formulário responsivo para preenchimento diário da temperatura de equipamentos. Geração automática de gráficos, relatórios e integração com carta de controle.
 
