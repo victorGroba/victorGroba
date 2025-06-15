@@ -59,6 +59,6 @@ Atualmente focado em me tornar referência em TI dentro da empresa, com domínio
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/josevictorgroba/" target="_blank">🔗 LinkedIn</a> • <a href="mailto:seuemail@email.com">📧 Email</a>
+<a href="[https://www.linkedin.com/in/josevictorgroba/](https://www.linkedin.com/in/jos%C3%A9victorgroba/)" target="_blank">🔗 LinkedIn</a> • <a href="mailto:victorgroba2@gmail.com">📧 victorgroba2@gmaill.com</a>
 
 </div>
