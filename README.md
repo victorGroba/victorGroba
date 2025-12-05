@@ -1,5 +1,10 @@
-# José Victor Groba
-**Desenvolvedor Full Stack | Graduando em Sistemas de Informação**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0056b3&height=220&section=header&text=José%20Victor%20Groba&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20|%20Graduando%20em%20Sistemas%20de%20Informação&descAlignY=65&descAlign=50&descSize=20&descColor=ffffff" alt="Header José Victor Groba" />
+
+</div>
+
+<br/>
 
 Atuo diretamente na modernização tecnológica de um laboratório de análise de alimentos, desenvolvendo soluções de software que substituem processos manuais por sistemas integrados. Meu foco é aplicar engenharia de software para garantir rastreabilidade, integridade de dados e eficiência operacional em ambientes críticos.
 
@@ -7,7 +12,7 @@ Atuo diretamente na modernização tecnológica de um laboratório de análise d
 
 ## Experiência Prática e Projetos
 
-Diferente de projetos acadêmicos padrão, minhas aplicações estão em produção e são utilizadas diariamente para garantir a qualidade técnica do laboratório.
+Diferente de projetos acadêmicos padrão, minhas aplicações estão **em produção** e são utilizadas diariamente para garantir a qualidade técnica do laboratório.
 
 ### 1. Sistema de Monitoramento de Temperatura e Equipamentos
 Desenvolvimento de uma aplicação web para eliminar o uso de planilhas manuais no controle de temperatura de estufas, geladeiras e banhos-maria.
@@ -25,6 +30,12 @@ Sistema para gestão do ciclo de vida de insumos laboratoriais, desde a prepara�
 Ferramentas desenvolvidas para reduzir o tempo administrativo da equipe técnica.
 * **Funcionalidades:** Emissão automática de etiquetas de rastreio de amostras, geração de certificados de calibração e históricos de produção.
 * **Impacto:** Redução significativa no tempo de processamento de documentos e mitigação de falhas humanas na digitação de laudos.
+
+---
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmbGdvM2t5cW9jbjNsaTFsMG05NnNmaXR3ZTQxODZzZ3N5dWhkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" height="200" alt="Coding gif" />
+</div>
 
 ---
 
@@ -55,4 +66,12 @@ Meu objetivo é consolidar minha carreira como Engenheiro de Software, especiali
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9victorgroba/) &bull; [Email](mailto:victorgroba2@gmail.com)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorgroba&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[**LinkedIn**](https://www.linkedin.com/in/jos%C3%A9victorgroba/) &bull; [**Email**](mailto:victorgroba2@gmail.com)
+
+</div>
