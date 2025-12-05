@@ -1,97 +1,88 @@
 <div align="center">
 
-<h1>🚀 Seja bem-vindo ao meu GitHub!</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0099FF&height=180&section=header&text=Olá,%20eu%20sou%20o%20José%20Victor!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Resolvendo%20problemas%20reais&descAlignY=62&descAlign=50" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZmbGdvM2t5cW9jbjNsaTFsMG05NnNmaXR3ZTQxODZzZ3N5dWhkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" height="230" alt="Coding gif" />
+### 👨‍💻 Desenvolvedor Full Stack | Sistemas de Informação
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9victorgroba/)](https://www.linkedin.com/in/jos%C3%A9victorgroba/)
+[![Gmail Badge](https://img.shields.io/badge/-victorgroba2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgroba2@gmail.com)](mailto:victorgroba2@gmail.com)
 
-### 👨🏽‍💻 Sobre mim
-
-Me chamo **José Victor Groba**, sou desenvolvedor Full Stack, graduando em **Sistemas de Informação** e atualmente atuo na prática como responsável pelas **soluções de TI em um laboratório de análise de alimentos**, mesmo antes da formação completa.  
-
-Sou **apaixonado por criar soluções que resolvem problemas reais**, e já venho colocando isso em prática através de **diversos sistemas web que desenvolvi do zero**, desde a concepção até a implementação.
+</div>
 
 ---
 
-### 🔧 O que eu já desenvolvi na prática:
+### 🧐 Sobre mim
 
-- **🌡️ Sistema de Monitoramento de Temperatura**  
-  Aplicação web com formulário responsivo para preenchimento diário da temperatura de equipamentos. Geração automática de gráficos, relatórios e integração com carta de controle.
+Sou graduando em **Sistemas de Informação** e atuo como **responsável por TI em um laboratório de análise de alimentos**. 
 
-- **⚗️ Sistema de Controle de pH e Meios de Cultura**  
-  Interface acessível por celular para registros de aferição de pH, com cálculo automático de exatidão e armazenamento direto em planilhas Excel. Controle de produção e consumo de meios, com rastreabilidade por QR Code.
+Meu foco não é apenas escrever código, mas **criar soluções que impactam o mundo real**. Tenho experiência prática transformando processos manuais e burocráticos em sistemas digitais eficientes, garantindo rastreabilidade e qualidade técnica.
 
-- **🧾 Automação de Documentos e Relatórios Técnicos**  
-  Criação de soluções para automatizar a emissão de etiquetas, registros de produção, históricos de calibração e outras rotinas críticas do laboratório.
+> 🚀 **Meu objetivo:** Tornar-me referência em automação de processos e arquitetura de sistemas robustos.
 
 ---
 
-### 🚧 Projetos em andamento
+### 🛠️ Arsenal Tecnológico
 
-- Sistema de **Gestão de Equipamentos** com QR Code para registro de uso, calibração e não conformidades.  
-- Portal para **criação e aplicação de checklists** personalizáveis com pontuação automática.  
-- Expansão dos sistemas internos para acesso remoto seguro.
+<div align="center">
 
----
+| **Back-end** | **Front-end** | **Ferramentas & Infra** |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) | | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
-### 🧠 Tecnologias que domino
-
-<p align="center">
-  <strong>Back-end:</strong><br/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-</p>
-<p align="center">
-  <strong>Front-end:</strong><br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-<p align="center">
-  <strong>Ferramentas e Ecossistema:</strong><br/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Postman-%FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
-</p>
+</div>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+### 🏆 Projetos de Impacto (Em Produção)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas"/>
-</p>
+Aqui estão algumas soluções que desenvolvi do zero e que hoje rodam no laboratório:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌡️ Monitoramento de Temperatura</h3>
+      <p>Sistema web que substituiu planilhas manuais. Possui formulários responsivos, gera gráficos automáticos e integra com cartas de controle de qualidade.</p>
+      <p><strong>Techs:</strong> Python, Flask, Pandas, Chart.js</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚗️ Controle de pH e Cultura</h3>
+      <p>Interface mobile-first para aferição de pH com cálculos automáticos de precisão. Inclui rastreabilidade de produção via QR Code e gestão de estoque.</p>
+      <p><strong>Techs:</strong> Java, Spring Boot, PostgreSQL, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🧾 Automação de Documentos</h3>
+      <p>Módulo para emissão automática de etiquetas de rastreio, registros de produção e históricos de calibração, reduzindo o tempo operacional em mais de 40%.</p>
+    </td>
+  </tr>
+</table>
+
+### 🚧 Trabalhando atualmente em:
+- **Gestão de Equipamentos:** Sistema completo com QR Code para histórico de manutenção e não conformidades.
+- **Portal de Checklists:** Ferramenta dinâmica para criação de auditorias internas com pontuação (score) automática.
 
 ---
 
-### 🌱 Em constante evolução
+### 📊 GitHub Stats
 
-Atualmente focado em me tornar referência em TI dentro da empresa, com domínio de:
-
-- Administração de servidores
-- Segurança de rede e controle de acesso
-- Automação e melhoria contínua de processos internos
-
----
-
-### 📫 Vamos nos conectar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9victorgroba/?originalSubdomain=br" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center">
+  <a href="https://github.com/victorgroba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgroba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgroba&layout=compact&theme=tokyonight"/>
   </a>
-  <a href="mailto:victorgroba2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/victorgroba2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgroba&theme=tokyonight" alt="victorgroba" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito com 💙 por José Victor Groba</sub>
 </div>
