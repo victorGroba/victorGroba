@@ -64,14 +64,4 @@ Ferramentas desenvolvidas para reduzir o tempo administrativo da equipe técnica
 
 Meu objetivo é consolidar minha carreira como Engenheiro de Software, especializando-me em arquitetura de sistemas e automação de processos complexos. Busco oportunidades onde eu possa aplicar minha experiência em resolver problemas reais de negócio através da tecnologia.
 
----
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorgroba&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-[**LinkedIn**](https://www.linkedin.com/in/jos%C3%A9victorgroba/) &bull; [**Email**](mailto:victorgroba2@gmail.com)
-
-</div>
